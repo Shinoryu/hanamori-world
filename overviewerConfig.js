@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1604752661",
+        "cacheTag": "1608520519",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,34 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "hanamori",
-            "last_rendertime": 1604752282,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                -144,
-                96,
-                160
-            ],
-            "minZoom": 0,
-            "spawn": [
-                -144,
-                96,
-                160
-            ],
-            "north_direction": 0
-        },
-        {
-            "name": "Smooth lighting render of hanamori",
-            "zoomLevels": 9,
-            "defaultZoom": 1,
-            "maxZoom": 9,
-            "path": "smooth_lighting",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "hanamori",
-            "last_rendertime": 1604752282,
+            "last_rendertime": 1608519602,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
